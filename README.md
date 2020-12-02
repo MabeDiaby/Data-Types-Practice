@@ -23,7 +23,7 @@ Starter code is available in [`lib/challenge.js`](lib/challenge.js). You are
 required to turn in your submission by making a pull request on the original
 repository. 
 
-Unless otherwise stated, homework is due at 10 am ET the next morning. Happy coding! 
+Unless otherwise stated, homework is due at 9 am ET the next morning. Happy coding! 
 
 **Make one commit for each prompt**
 

@@ -34,6 +34,11 @@ There are a series of prompts inside of the starter code found in
 prompt is in the form of a JavaScript comment. Write your code to solve the
 prompt *after* the comment.
 
+You can use the javascript in two ways: 1.) by connecting it to `index.html` and viewing the output in Chrome DevTools Console, or 2.)  (Recommended) using `node` on the terminal to run the script as seen below:
+<img src="node-example.JPG">
+
+> make sure to clone from your own fork! Not from SEIR-1130, as is done in the example above.
+
 Some prompts will require you to practice researching methods we did not learn
 in class.
 
